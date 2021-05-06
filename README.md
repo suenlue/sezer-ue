@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi, I’m Sezer 👋
+I studied <i>computer science</i> at the <b>University of Stuttgart</b> and work as a <i>front-end engineer</i> at <b>Schwarz IT</b>.
+<br />Before that, I worked as a working student in the field of <i>User Experience Strategy and Automated Driving</i> at <b>Robert Bosch GmbH</b>.
 <!--
 **sezer-ue/sezer-ue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
